@@ -17,4 +17,4 @@ if stringlower == inversa:
 else:
         print("Não é palíndromo")
 
-
+# eu amo a lara 
